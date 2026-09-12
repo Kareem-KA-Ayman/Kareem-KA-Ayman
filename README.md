@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Building responsive and interactive web applications<br>📚 I'm currently learning React, TypeScript, Next.js, and Node.js<br>🎯 Goals: Master Full Stack Development and contribute to real-world projects<br>🎲 Fun fact: I can spend hours perfecting a single UI component</p>
+<p data-importer="text" align="left">✨ Front-End Developer in training with hands-on experience in building simple and responsive web pages. Proficient in HTML, CSS, and JavaScript, with a strong focus on creating clean, user-friendly interfaces. Currently studying Computer Engineering and actively learning modern front-end tools. Eager to join real projects, grow my skills, and contribute to teams focused on innovation and great user experience. Open to internships and entry-level opportunities.</p>
 
 ###
 ## 🌐 Socials:
